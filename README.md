@@ -9,8 +9,8 @@ This is my first boilerplate created as startup for my next projects. In this pr
 
 You can simply clone this project from my repository:
 
-```yarn
-to be updated
+```git
+git clone git@github.com:MATRInX/react-ts-boilerplate.git
 ```
 
 ## Usage
