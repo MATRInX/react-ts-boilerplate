@@ -2,7 +2,7 @@
   "name": "ts-react-boilerplate",
   "version": "1.0.0",
   "description": "starting project for react/ts apps",
-  "main": "index.js",
+  "main": "index.tsx",
   "author": "M. Wojtania",
   "license": "MIT",
   "private": false,
